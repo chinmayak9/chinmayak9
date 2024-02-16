@@ -6,7 +6,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![LinkedIn](https://github.com/chinmayak9/chinmayak9/blob/main/Images/LinkedInIcon.png)](https://www.linkedin.com/in/chinmaya-kumar/)
+[![LinkedIn](https://github.com/chinmayak9/chinmayak9/blob/main/Images/LinkedInLogo.png)](https://www.linkedin.com/in/chinmaya-kumar/)
+
+[![LinkedIn](https://github.com/chinmayak9/chinmayak9/blob/main/Images/linkedInIcon.png)](https://www.linkedin.com/in/chinmaya-kumar/)
 ---
 
 <!---

@@ -7,6 +7,7 @@
 - ⚡ Fun fact: ...
 - ![My LinkedIn](https://www.linkedin.com/in/chinmaya-kumar/)
 
+[![LinkedIn](https://github.com/chinmayak9/chinmayak9/blob/main/Images/LinkedInLogo.png)](https://www.linkedin.com/in/chinmaya-kumar/)
 ---
 
 <!---
